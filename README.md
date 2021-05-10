@@ -4,7 +4,7 @@ I’m a Computer Science Masters Student at Boston University with a BA in Chemi
 
 At Spark!, I lead multiple teams as an Agile Project Manager to extract insights from unstructured data, liaising with clients to understand their needs. In my involvement with BostonHacks, I led a cross-functional team of 10 engineers developing an open source portal for Organizers, Hackers and Sponsors to stay involved with BostonHacks.
 
-I’m also interested in helping build the future of diagnostics - miniaturizing the machinery, making it reliable and cost-effective. In my position as a Technical Consultant for OXOS Medical, I’m developing a Flutter app for the Micro C device, allowing doctors on the field to digitally design their X-ray strategies, share X-ray data with the patients, and use anonymized data to intelligently design X-ray schemes.
+I’m also interested in helping build the future of diagnostics - miniaturizing the machinery, making it reliable and cost-effective. In my position as a Flutter Developer for OXOS Medical, I’m developing a Flutter app for the Micro C device, allowing doctors on the field to digitally design their X-ray strategies, share X-ray data with the patients, and use anonymized data to intelligently design X-ray schemes.
 
 <!--
 **rishabnayak/rishabnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
