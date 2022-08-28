@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Founder and CTO @ Mount with significant research and engineering experience, leading a talented team of professionals in building the largest shared economy with travelers in mind. We’re creating a SaaS platform that lets you rent anything, anytime, from anyone.
+Founder and CTO @ Mount with significant research and engineering experience, leading a talented team of professionals in building the largest shared economy with travelers in mind. Mount is the consumer-to-consumer marketplace that lets people rent anything, to anyone, at any time - making authentically unexpected exploration possible and empowering hosts, travelers and locals equally in ways that open up the shared economy and lighten up everyone’s baggage.
 
 Come join us - we’re hiring!
 
