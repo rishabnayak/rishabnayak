@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-Founder and CTO @ Mount with significant research and engineering experience, leading a talented team of professionals in building the largest shared economy with travelers in mind. Mount is the consumer-to-consumer marketplace that lets people rent anything, to anyone, at any time - making authentically unexpected exploration possible and empowering hosts, travelers and locals equally in ways that open up the shared economy and lighten up everyone’s baggage.
+CTO @ Joyn, a communication platform supercharged by AI. With a Master's degree in Computer Science from BU and a background in Chemistry and Computer Science, he bridges scientific principles with technological innovation.
 
-Come join us - we’re hiring!
+Previously, Rishab co-founded Mount, a pioneering rental platform. His research and engineering expertise, particularly in cloud computing, enables him to architect scalable and secure systems.
+
+At Joyn, Rishab leads the development of cutting-edge AI technologies that redefine communication. By integrating machine learning and natural language processing, he enables effortless and intelligent connections.
+
+If this sounds interesting to you, come join us - we’re hiring!
 
 <!--
 **rishabnayak/rishabnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
