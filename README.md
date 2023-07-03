@@ -4,7 +4,7 @@ CTO @ Joyn, a communication platform supercharged by AI. With a Master's degree 
 
 Previously, Rishab co-founded Mount, a pioneering rental platform. His research and engineering expertise, particularly in cloud computing, enables him to architect scalable and secure systems.
 
-At Joyn, Rishab leads the development of cutting-edge AI technologies that redefine communication. By integrating machine learning and natural language processing, he enables effortless and intelligent connections.
+At Joyn, Rishab leads the development of cutting-edge AI technologies that redefine communication. By integrating machine learning and natural language processing, Joyn enables effortless and intelligent connections.
 
 If this sounds interesting to you, come join us - we’re hiring!
 
