@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-CTO @ Joyn, a communication platform supercharged by AI. With a Master's degree in Computer Science from BU and a background in Chemistry and Computer Science, he bridges scientific principles with technological innovation.
+Founder and CTO @ Joyn, a communication platform leveraging AI to create new social experiences. With a Master's degree in Computer Science from BU and a background in Chemistry and Computer Science, he bridges scientific principles with technological innovation.
 
 Previously, Rishab co-founded Mount, a pioneering rental platform. His research and engineering expertise, particularly in cloud computing, enables him to architect scalable and secure systems.
 
-At Joyn, Rishab leads the development of cutting-edge AI technologies that redefine communication. By integrating machine learning and natural language processing, Joyn enables effortless and intelligent connections.
-
-If this sounds interesting to you, come join us - we’re hiring!
+At Joyn, Rishab leads the development of an end-to-end encrypted real-time communication app for iOS, Android, macOS, Windows and Web with best-in-class features that enhance 1:1 interactions.
 
 <!--
 **rishabnayak/rishabnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
