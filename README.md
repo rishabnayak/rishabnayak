@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-As a seasoned founder and engineer, I bring a track record of driving innovation and efficiency across multiple tech ventures. With a Master of Science in Computer Science from Boston University and expertise in domains spanning Data Science, AI and Cloud, I have co-founded successful startups, including Mount and Joyn, raising a total of $3.7M in funding. I'm passionate about solving complex problems, leading high-performing teams, and continuously pushing the boundaries of technology.
+As a seasoned founder and engineer, I bring a track record of driving innovation and efficiency across multiple tech ventures. With a Master of Science in Computer Science from Boston University and expertise in domains spanning Data Science, AI and Cloud, I have co-founded successful startups, including Mount and Joyn, raising a total of $3.7M in funding. 
+
+I'm passionate about solving complex problems, leading high-performing teams, and continuously pushing the boundaries of technology.
 
 <!--
 **rishabnayak/rishabnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
