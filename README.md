@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-2x Founder with a Master's degree in Computer Science from BU and a background in Chemistry and Computer Science, he bridges scientific principles with technological innovation.
-
-Previously, Rishab co-founded Mount, a pioneering rental platform; and Joyn, an end-to-end encrypted real-time communication app for iOS, Android, macOS, Windows and Web. His research and engineering expertise, particularly in cloud computing, enables him to architect scalable and secure systems.
+As a seasoned founder and engineer, I bring a track record of driving innovation and efficiency across multiple tech ventures. With a Master of Science in Computer Science from Boston University and expertise in domains spanning Data Science, AI and Cloud, I have co-founded successful startups, including Mount and Joyn, raising a total of $3.7M in funding. I'm passionate about solving complex problems, leading high-performing teams, and continuously pushing the boundaries of technology.
 
 <!--
 **rishabnayak/rishabnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
